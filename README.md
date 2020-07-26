@@ -8,6 +8,7 @@ Vue admin web page for Chengdonglu210 mall
     cnpm install
     cnpm run dev
 ```
+The web page is running on port `9527`
 
 ## 
 Reference: [Itemall](https://github.com/linlinjava/litemall)
